@@ -812,10 +812,6 @@ height:05px;
 background:#C0C0B8;
 }
 
-#rodape-creditos .emoji  {
-width:20px;
-}
-
 #rodape-creditos img {
 padding-top:0%;
 width:180px;
@@ -830,11 +826,11 @@ background:#C0C0B8;
 }
 
 #copyright h1 {
-font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:300;
 padding:01% 0 01% 0;
 text-align:center;
-font-size:16px;
+font-size:13px;
 color:#A4A499;
 }
 
