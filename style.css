@@ -918,31 +918,4 @@ tituloPostagem {
 	padding: 10px 8px 10px 10px;
 }
 
-.container a {
-  background:transparent;
-  display: inline-block;
-  color: #fff;
-  text-decoration: none;
-  padding:10px;
-  margin: 10px 0px;
-  width: 13px;
-  height: 13px;
-  border-radius: 50%;
-  border:1px solid #fff;
-  position: relative;
-  -webkit-transition-duration: 0.4s; 
-  -moz-transition-duration: 0.4s;
-  -o-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-  font-size: 1.0em;
-  text-align: center;
-  
-}
-
-.container a:hover {
-  border:1px solid #85302D;
-  color: #85302D;
-  opacity: 0.9;
-}
-
 </style>
