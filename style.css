@@ -793,17 +793,17 @@ dt4 {
 
 /* Footer */
 #rodape-creditos {
-font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Abel', sans-serif;
 font-weight:400;
 font-size:15px;  
 text-transform:normal;
 color:#3C0F12;
-background:#DDDDDD;
+background:#fff;
 height:auto;
 position:absolute;
 z-index:99;
 width:100%;
-padding:02% 0 0 0;
+bottom:0;
 }
 
 #rodape-creditos h5 {
